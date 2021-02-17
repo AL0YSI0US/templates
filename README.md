@@ -39,7 +39,7 @@
 
 | 💾  File / Nomenclature | What the Fvck lives here? |
 | :-: | - |
-| :rocket: [Fun with Markdown](funWithMarkdown.md) | Badges-HTMLish Formatting-etc |
+| 🚀 [Fun with Markdown](funWithMarkdown.md) | Badges-HTMLish Formatting-etc |
 | ❤️ [Credits](credits.md) ❤️ | *eveything that looks neat, I learned from somone else.* This page will serve to document my gratitude 🙏🏾|
 
 ````
