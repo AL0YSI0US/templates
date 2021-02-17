@@ -8,9 +8,4 @@
 >
 > coding adventures.  >> **Thank you Github Developers!**
 
-````mindmap
-
-```
-````
-
 [<== Home](README.md) 🏠
