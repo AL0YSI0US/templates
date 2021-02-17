@@ -26,7 +26,7 @@
 
 | 💾  File:Nomenclature | Whats the fvckin' point? |
 | :-: | - |
-| [README.md](codefellowsReadMe.md) | Documentation for projects / assignments |
+| [Codefellows README](codefellowsReadMe.md) | Documentation for projects / assignments |
 | [CSS Reset](cssReset.md) | The goal of a reset stylesheet is to reduce browser inconsistencies in things like default line heights, margins and font sizes of headings‎. |
 | [CSS Style](cssStyle.md) | Boiler Plate -*AL0YSI0US custom build-breathing document* |
 | [HTML](html.md) | Boiler Plate -*AL0YSI0US custom build-breathing document* |
