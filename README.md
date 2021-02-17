@@ -43,10 +43,7 @@
 | [🚀️ Fun with Markdown](funWithMarkdown.md) | Badges-HTMLish Formatting-etc |
 
 ````
-                                              
-     ✏️ My name is Aloysious and I am currently enrolled at Codefellows 
-
-         to study the arts and crafts of JavaScript and Python.
+✏️ My name is Aloysious and I am currently enrolled at Codefellows to study the arts and crafts of JavaScript and Python.
 
                                              
                                              I'm interested in......
@@ -55,6 +52,10 @@
                                                      + Ethics
                                                      + Accountability
                                                      + Healing Generational trauma 
+                                                     + skateboarding
+                                                     + the arts 
+                                                     + my kids ability to thrive
+                                                     + my communities ability to thrive
 
                                                      ...and the intersection of liberation and the tech industry 
                                                      for a Black bodied disabled humxn such as myself.                                                        
