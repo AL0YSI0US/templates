@@ -2,8 +2,10 @@
 
 / /  T E M P L A T E S   [for] Self Expression / /
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-This is one of the first things I saw that made me wonder what was possible with Markdown
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> This is one of the first things I saw that made me wonder what was possible with Markdown
+
+`pop-out-email` :computer: I’m currently looking to collaborate on Open Source Projects > :email: [aloysiousx@gmail.com](mailto:aloysiousx@gmail.com) :email:
+
 
 <table><tr><td>
 <pre>
