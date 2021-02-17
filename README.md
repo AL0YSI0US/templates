@@ -21,15 +21,12 @@
 | [.gitignore](gitignore.md) | A***gitignire** file specifies intentionally untracked files that Git should ignore. |
 | [.markdownlint.json](markdownlint-json.md) | Not everyone writes markdown in the same way, and there are multiple flavors and styles, each of which are valid. While markdownlint's default settings will result in markdown files that reflect the author's preferred markdown authoring preferences, your project may have different guidelines. |
 | [LICENSE](license.md) | **MIT License** Copyright (c) 2021 **ALOYSIOUS** |
-|   |   |
-|   |   |
 
 ## A collection of things... 📁
-
 
 | 💾  File / Nomenclature | What the Fvck lives here? |
 | :-: | - |
 | [🚀️ Fun with Markdown](funWithMarkdown.md) | Badges-HTMLish Formatting-etc |
-| []() | ---- |
+
 
 ## ❤️ [Credits](credits.md) ❤️
