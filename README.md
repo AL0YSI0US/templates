@@ -9,7 +9,7 @@
 
 <table><tr><td>
 <pre>
-Things to do in repository...
+  > Things to do in repository...
 [x] frame it up 
 [x] add License
 [x] start the credits page
@@ -49,9 +49,9 @@ This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.c
 
 This license lets others distribute, remix, adapt, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.
 
-![Profile views](https://gpvc.arturio.dev/AL0YSI0US) Remember to 🌟star🌟this repo so others can find it too! 👀
+Find my project helpful?...Remember to 🌟star🌟this repo so others can find it too! ![Profile views](https://gpvc.arturio.dev/AL0YSI0US) 👀
 
-### ❤️ [Credits](credits.md) ❤️
+### ❤️ [Credits](credits.md) ❤️ *eveything that looks neat, i learned from somone else.*
 
 <!--
 <pre><code>  
