@@ -6,7 +6,6 @@
 
 💼 [AL0YSI0US-Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
 
-
 <table><tr><td>
 <pre>
   > Things to do in repository...
