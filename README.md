@@ -1,4 +1,4 @@
-# 📚 Table of Contents
+# 📚 Table of Contents [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 > / /  T E M P L A T E S  [for]  Codefellows Assignments / /
 
@@ -7,10 +7,26 @@
 💼 [[AL0YSI0US-Linkedin]()
 
 
+<table><tr><td>
+<pre>
+Things to do in repository...
+[x] frame it up 
+[x] add License
+[x] start the credits page
+[/] render
+[ ] copy over badges
+[ ] hand-jam funWithMarkdown
+[ ] grattitude to github Devs in Credits
+[ ] create a banner?
+[ ] create a discussion?
+</pre>
+</td></tr></table>
+
+
 ## Standard Project Documents 📁
 
 
-| 💾  File / Nomenclature | Why do we care? |
+| 💾  File:Nomenclature | Whats the fvckin' point? |
 | :-: | - |
 | [README.md](codefellowsReadMe.md) | Documentation for projects / assignments |
 | [CSS Reset](cssReset.md) | The goal of a reset stylesheet is to reduce browser inconsistencies in things like default line heights, margins and font sizes of headings‎. |
@@ -24,12 +40,10 @@
 
 ## A collection of things... 📁
 
+
 | 💾  File / Nomenclature | What the Fvck lives here? |
 | :-: | - |
 | [🚀️ Fun with Markdown](funWithMarkdown.md) | Badges-HTMLish Formatting-etc |
-
-
-## ❤️ [Credits](credits.md) ❤️
 
 This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/AL0YSI0US/" property="cc:attributionName" rel="cc:attributionURL">AL0YSI0US</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
 
@@ -37,10 +51,11 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 
 ![Profile views](https://gpvc.arturio.dev/AL0YSI0US) Remember to 🌟star🌟this repo so others can find it too! 👀
 
+### ❤️ [Credits](credits.md) ❤️
 
 <!--
 <pre><code>  
-                   
+                 
 
 
 
@@ -53,9 +68,9 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 
 
 
-                
+              
 
                             Remember to 🌟star🌟this repo so others can find it too! 👀  
-                                                                       
+                                                                     
 </code></pre>
---> 
+-->
