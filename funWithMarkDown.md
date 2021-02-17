@@ -1,12 +1,15 @@
 # Fun With Markdown!
 
-/ /  T E M P L A T E S   [for]  Expression / /
+/ /  T E M P L A T E S   [for] Self Expression / /
+
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+This is one of the first things I saw that made me wonder what was possible with Markdown
 
 <table><tr><td>
 <pre>
  
-    To-Do List
- [x] This is a task i have completed
+☑️ This is a To-Do List
+[x] This is a task i have completed
 [ ] much to accomplish
 [ ] still so much to do
 [x] all done! hooray!
