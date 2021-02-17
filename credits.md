@@ -8,4 +8,14 @@
 >
 > coding adventures.  >> **Thank you Github Developers!**
 
+## G r a t i t u d e . . .
+
++ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> This waving hand is one of the first things I saw that made me wonder what all  could be possible when writing in Markdown....Thank You🙏🏾[Martin Heinz](https://github.com/MartinHeinz)!
++ [Read-Me-Stats](https://github.com/anuraghazra/github-readme-stats#github-extra-pins) Thank You🙏🏾[Anurag Hazra](https://github.com/anuraghazra)!
++
++
++
++
++
+
 [<== Home](README.md) 🏠
