@@ -2,9 +2,9 @@
 
 > / /  T E M P L A T E S  [for]  Codefellows Assignments / /
 
-💻  [AL0YSI0US-GitHub Portfolio](https://github.com/AL0YSI0US)
+💻 [AL0YSI0US-GitHub Portfolio](https://github.com/AL0YSI0US)
 
-💼 [[AL0YSI0US-Linkedin]()
+💼 [AL0YSI0US-Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
 
 
 <table><tr><td>
@@ -22,9 +22,7 @@
 </pre>
 </td></tr></table>
 
-
 ## Standard Project Documents 📁
-
 
 | 💾  File:Nomenclature | Whats the fvckin' point? |
 | :-: | - |
@@ -40,10 +38,27 @@
 
 ## A collection of things... 📁
 
-
 | 💾  File / Nomenclature | What the Fvck lives here? |
 | :-: | - |
 | [🚀️ Fun with Markdown](funWithMarkdown.md) | Badges-HTMLish Formatting-etc |
+
+````
+                                              
+     ✏️ My name is Aloysious and I am currently enrolled at Codefellows 
+
+         to study the arts and crafts of JavaScript and Python.
+
+                                             
+                                             I'm interested in......
+                                                     + Machine learning 
+                                                     + Data Scrubbing
+                                                     + Ethics
+                                                     + Accountability
+                                                     + Healing Generational trauma 
+
+                                                     ...and the intersection of liberation and the tech industry 
+                                                     for a Black bodied disabled humxn such as myself.                                                        
+````
 
 This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/AL0YSI0US/" property="cc:attributionName" rel="cc:attributionURL">AL0YSI0US</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
 
@@ -71,6 +86,7 @@ Find my project helpful?...Remember to 🌟star🌟this repo so others can find 
               
 
                             Remember to 🌟star🌟this repo so others can find it too! 👀  
+                            
                                                                      
 </code></pre>
 -->
