@@ -1,5 +1,10 @@
+# HTML
 
-````javascript
+> / /  T E M P L A T E   [for]  Codefellows Assignments / /
+>
+> 🚧 Boiler Plate-custom build- ***breathing document***
+
+````html
 <!DOCTYPE html>
   <html>
 
@@ -19,21 +24,21 @@
             <p>Paragragh One</p>
             <p>Paragragh Two</p>
             <p>Paragragh Three</p>
-            
+  
         <article>
             <h2>H2 Heading</h2>
               <p>Paragragh One</p>
               <p>Paragragh Two</p>
               <p>Paragragh Three</p>
         </article>
-        
+  
         <section>
           <h2>H2 Heading</h2>
             <p>Paragragh One</p>
             <p>Paragragh Two</p>
             <p>Paragragh Three</p>
         </section>
-        
+  
         <ul>
           <ol>List item One</ol>
           <ol>List item Two</ol>
@@ -44,16 +49,19 @@
           <ol>List item Six</ol>
           <ol>List item Six</ol>
         </ul>
-            
+  
         <div class="AL0YSI0USscroll"><h3>AL0YSI0US this text will scroll from right to left</h3></div>
-        
+  
         <div class="submit">Submit</div>
-        
-        <footer>&copy; 2021 AL0YSI0US @ Codefellows</footer>
+  
+        <footer>© 2021 AL0YSI0US @ Codefellows</footer>
         <script src="js/app.js"></script>
       </Main>
-
+   
   </body>
-
+   
 </html>
+```
 ````
+
+[<== Home](README.md) 🏠

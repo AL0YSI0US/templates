@@ -1,4 +1,4 @@
-# JavaScript 
+# JavaScript
 
 > / /  T E M P L A T E  [for]  Codefellows Assignments / /
 
@@ -6,4 +6,4 @@
 'use strict';
 ````
 
-[<== Home](README.md)
+[<== Home](README.md) 🏠
