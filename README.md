@@ -40,6 +40,7 @@
 | 💾  File / Nomenclature | What the Fvck lives here? |
 | :-: | - |
 | [🚀️ Fun with Markdown](funWithMarkdown.md) | Badges-HTMLish Formatting-etc |
+| ❤️ [Credits](credits.md) ❤️ | *eveything that looks neat, I learned from somone else.* This page will serve to document my gratitude 🙏🏾|
 
 ````
 ✏️ My name is Aloysious and I am currently enrolled at Codefellows to study the arts and crafts of JavaScript and Python.
@@ -66,7 +67,7 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 
 Find my project helpful?...Remember to 🌟star🌟this repo so others can find it too! ![Profile views](https://gpvc.arturio.dev/AL0YSI0US) 👀
 
-### ❤️ [Credits](credits.md) ❤️ *eveything that looks neat, i learned from somone else.*
+### ❤️ [Credits](credits.md) ❤️ *eveything that looks neat, I learned from somone else.*
 
 <!--
 <pre><code>  
