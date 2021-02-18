@@ -19,7 +19,7 @@
 [ ] create a banner?
 [x] enable discussions?
 </pre>
-</td></tr></table>
+</td></tr></table><br>
 
 ## Standard Project Documents 📁
 
