@@ -52,9 +52,9 @@
                 I'm interested in......
                           + Machine learning 
                           + Data Scrubbing
-                          + Ethics                                          I'm interested in the relationship
+                          + Ethics                                      I study the relationship
                           + Accountability                                                
-                          + Healing Generational trauma                                 between Behavior and Environment
+                          + Healing Generational trauma                           between Behavior and Environment
                           + skateboarding
                           + the Arts 
                           + my kids ability to Thrive
