@@ -7,14 +7,16 @@
 💼 [AL0YSI0US-Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
 <table align="right"><tr><td>
 <pre>
-  > Things to do in repository...
-[x] frame it up 
-[x] add License
-[x] start the credits page
-[x] render [x] choose a theme
-[ ] copy over badges
-[/] hand-jam funWithMarkdown
-[ ] grattitude to github Devs in Credits
+     Things to do in repository...
+========================================
+                                         
+[x] frame it up                           
+[x] add License                              
+[x] start the credits page                      
+[x] render [x] choose a theme                    
+[ ] copy over badges                        
+[/] hand-jam funWithMarkdown                    
+[ ] grattitude to github Devs in Credits 
 [ ] create a banner?
 [x] enable discussions?
 </pre>
