@@ -5,11 +5,10 @@
 💻 [AL0YSI0US-GitHub Portfolio](https://github.com/AL0YSI0US)
 
 💼 [AL0YSI0US-Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
-
-<table><tr><td>
+<table align="right"><tr><td>
 <pre>
-  > Things to do in repository...
-[x] frame it up 
+    Things to do in repository...
+[x] frame it up
 [x] add License
 [x] start the credits page
 [x] render [x] choose a theme
@@ -19,11 +18,13 @@
 [ ] create a banner?
 [x] enable discussions?
 </pre>
-</td></tr></table>
+</td></tr></table><br><br>
+<br>
+<b>
+  
+<h3 align="center"</h3>📁 Baseline Project Documents 
 
-## Standard Project Documents 📁
-
-
+----
 | 💾  File:Nomenclature | Whats the fvckin' point? |
 | :-: | - |
 | [Codefellows README](codefellowsReadMe.md) | Documentation for projects / assignments |
@@ -32,7 +33,7 @@
 | [HTML](html.md) | Boiler Plate -*AL0YSI0US custom build-breathing document* |
 | [app.js](js.md) | '`use strict';` |
 | [.eslintrc.json](eslintrc-json.md) | **In conjunction with ES Lint** which is an open standard file format, and data interchange format, that uses human-readable text to store and transmit data objects consisting of attribute–value pairs and array data types (or any other serializable value). It is a very common data format, with a diverse range of applications, such as serving as a replacement for XML in AJAX systems |
-| [.gitignore](gitignore.md) | A***gitignire** file specifies intentionally untracked files that Git should ignore. |
+| [.gitignore](gitignore.md) | A **.gitignore** file specifies intentionally untracked files that Git should ignore. |
 | [.markdownlint.json](markdownlint-json.md) | Not everyone writes markdown in the same way, and there are multiple flavors and styles, each of which are valid. While markdownlint's default settings will result in markdown files that reflect the author's preferred markdown authoring preferences, your project may have different guidelines. |
 | [LICENSE](license.md) | **MIT License** Copyright (c) 2021 **ALOYSIOUS** |
 
@@ -44,22 +45,22 @@
 | 🚀[Fun with Markdown](funWithMarkdown.md) | Badges-HTMLish Formatting-etc |
 | ❤️[Credits](credits.md) ❤️ | *eveything that looks neat, I learned from somone else.* This page will serve to document my gratitude 🙏🏾 |
 
-````
+````javascript
 ✏️ My name is Aloysious and I am currently enrolled at Codefellows to study the arts and crafts of JavaScript and Python.
 
                                          
                 I'm interested in......
                           + Machine learning 
                           + Data Scrubbing
-                          + Ethics
-                          + Accountability
-                          + Healing Generational trauma 
+                          + Ethics                                      I study the relationship
+                          + Accountability                                                
+                          + Healing Generational trauma                           between Behavior and Environment
                           + skateboarding
-                          + the arts 
-                          + my kids ability to thrive
-                          + my communities ability to thrive
+                          + the Arts 
+                          + my kids ability to Thrive
+                          + my Communities ability to Thrive
 
-                              ...and the intersection of liberation and the tech industry 
+                              ...and the Intersection of Liberation and the tech industry 
                                          for a Black bodied disabled humxn such as myself.                                                    
 ````
 
