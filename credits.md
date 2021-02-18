@@ -15,6 +15,6 @@
 + [Shields.io](https://shields.io/) for the badges
 +
 + this is a work in porogress
-  + This repository was  created less than 24 hrs ago...
+  + This repository was  created less than 72 hrs ago...
 
 [<== Home](README.md) 🏠
