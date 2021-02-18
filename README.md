@@ -2,10 +2,6 @@
 
 > / /  T E M P L A T E S  [for]  Codefellows Assignments / /
 
-💻 [AL0YSI0US-GitHub Portfolio](https://github.com/AL0YSI0US)
-
-💼 [AL0YSI0US-Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
-
 <table align="right"><tr><td>
 <pre>
   > Things to do in repository...
@@ -22,7 +18,9 @@
 </td></tr></table><br>
 
 
-### Standard Project Documents 📁
+<h3 align="center"</h3>
+
+📁 Standard Project Documents 
 
 
 | 💾  File:Nomenclature | Whats the fvckin' point? |
