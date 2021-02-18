@@ -5,7 +5,6 @@
 💻 [AL0YSI0US-GitHub Portfolio](https://github.com/AL0YSI0US)
 
 💼 [AL0YSI0US-Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
-
 <table align="right"><tr><td>
 <pre>
   > Things to do in repository...
@@ -46,22 +45,22 @@
 | 🚀[Fun with Markdown](funWithMarkdown.md) | Badges-HTMLish Formatting-etc |
 | ❤️[Credits](credits.md) ❤️ | *eveything that looks neat, I learned from somone else.* This page will serve to document my gratitude 🙏🏾 |
 
-````
+````javascript
 ✏️ My name is Aloysious and I am currently enrolled at Codefellows to study the arts and crafts of JavaScript and Python.
 
                                          
                 I'm interested in......
                           + Machine learning 
                           + Data Scrubbing
-                          + Ethics
-                          + Accountability
-                          + Healing Generational trauma 
+                          + Ethics                                          I'm interested in the relationship
+                          + Accountability                                                
+                          + Healing Generational trauma                                 between Behavior and Environment
                           + skateboarding
-                          + the arts 
-                          + my kids ability to thrive
-                          + my communities ability to thrive
+                          + the Arts 
+                          + my kids ability to Thrive
+                          + my Communities ability to Thrive
 
-                              ...and the intersection of liberation and the tech industry 
+                              ...and the Intersection of Liberation and the tech industry 
                                          for a Black bodied disabled humxn such as myself.                                                    
 ````
 
