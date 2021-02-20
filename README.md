@@ -39,7 +39,7 @@
 
 ## Aloysious' Most commonly used Developer Tools
 
-| 🛠️ Cool Tools | How can it serve us? |
+| Cool Tools🛠️ | How can it serve us? |
 | - | - |
 | ♿🎨[Accesible Colors](https://accessible-colors.com/) | Evaluates your color combination using the WCAG 2.0 guidelines for contrast accessibility. If your combination does not meet the guidelines, we find the closest accessible combination by modifying the color lightness. We modify the lightness value only, in order to stay as true to the original color as possible. |
 | [ace-ADA & WCAG compliance report](https://ace.accessibe.com/?utm_feeditemid=&utm_device=c&utm_term=%2Baxe%20%2Baccessibility&utm_source=google&utm_medium=ppc&utm_campaign={utmcampaign}&hsa_cam=9492882453&hsa_grp=97916664233&hsa_mt=b&hsa_src=g&hsa_ad=430994830963&hsa_acc=547-375-0088&hsa_net=adwords&hsa_kw=%2Baxe%20%2Baccessibility&hsa_tgt=kwd-861945164619&hsa_ver=3&utm_feeditemid=&gclid=Cj0KCQiAjKqABhDLARIsABbJrGlTomgpXZHUH8XF3Sg-d3-B66HdS0iVeLyiSrUf1kIKUmXXwYz3NLYaApRaEALw_wcB) | Learn the compliance level of your website instantly, get a report of all deficiencies. |
