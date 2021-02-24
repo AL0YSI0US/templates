@@ -15,9 +15,21 @@
 [x] render [x] choose a theme
 [ ] copy over badges
 [/] hand-jam funWithMarkdown
-[ ] grattitude to github Devs in Credits
+[/] grattitude to github Devs in Credits
 [ ] create a banner?
 [x] enable discussions?
+
+----------------------------------------------<br>
+[/] Introduce button navigation functionality<br> 
+Goal: I want to be able to wire up a repository  
+from sacratch in less than 10 minutes.
+
+I value my social life...
+
+I'd like to have a template for this all in ONE PLACE! 
+        Hence this repository
+
+🚀 Bring it on 301...
 </pre>
 </td></tr></table><br><br>
 <br>
