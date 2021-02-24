@@ -4,8 +4,7 @@
 >
 > 🚧 Boiler Plate-custom build- ***breathing document***
 >
->
-> [<== Previous Topic](cssStyle.md) **style.css**
+> [<== Previous Topic](cssReset.md) **reset.css**
 
 ````javascript
 come back and write out the html template 

@@ -4,6 +4,8 @@
 >
 > 🚧 Boiler Plate-custom build- ***breathing document***
 
+[Next Toic ==>](license.md) LICENSE
+
 ````html
 <!DOCTYPE html>
   <html>

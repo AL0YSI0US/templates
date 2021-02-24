@@ -2,6 +2,8 @@
 
 / /  T E M P L A T E   [for]  Codefellows Assignments / /
 
+[Next Toic ==>](markdownlint-json.md) .markdownlint.json
+
 ````javascript
 # Created by https://www.gitignore.io/api/node,linux,macos,windows,visualstudiocode
 
