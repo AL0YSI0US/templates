@@ -2,7 +2,10 @@
 
 > / /  T E M P L A T E   [for]  Codefellows Assignments / /
 
-````javascript
+
+
+[Next Toic ==>](codeOfConduct.md) CODE_OF_CONDUCT
+
 {
   "line-length": false,
   "no-trailing-punctuation": false,
@@ -18,6 +21,4 @@
   }
 }
 ```
-````
-
 [<== Home](README.md) 🏠

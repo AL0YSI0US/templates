@@ -2,6 +2,10 @@
 
 > / /  T E M P L A T E   [for]  Codefellows Assignments / /
 
+
+
+[Next Toic ==>](gitignore.md) .gitignore
+
 ````javascript
 {
   "extends": "eslint:recommended",
@@ -43,7 +47,5 @@
 }
 ```
 ````
-
-
 
 [<== Home](README.md) 🏠

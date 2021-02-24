@@ -5,6 +5,7 @@
 [Next Toic ==>](cssStyle.md) **style.css**
 
 ````
+
  LAB - 01
 
 ## Cookie-Stand ![cs](https://img.shields.io/github/license/AL0YSI0US/repositotyHere) ![open-pr](https://img.shields.io/github/issues-pr-raw/AL0YSI0US/repositotyHere) ![closed-pr](https://img.shields.io/github/issues-pr-closed/AL0YSI0US/repositotyHere)
@@ -43,8 +44,9 @@ There are [things] to check out:
 
 ## L I N K S  &  R E S O U R C E S 
 
-+ [Class Tutorial]
++ [`Class Tutorials`]
 + [CSS reset](https://meyerweb.com/eric/tools/css/reset/) *Meyers Reset*
++ [`.gitignore`]Created by `https://www.gitignore.io/api/node,linux,macos,windows,visualstudiocode`
 ++ [Dosis - Google Font](https://fonts.google.com/specimen/Dosis?
 ++ [Cuprum - Google Font](https://fonts.google.com/specimen/Cuprum?category=Sans+Serif,Display,Handwriting,Monospace&sidebar.open=true&selection.family=Cuprum)
 ++ [Scrolling Text](https://colibriwp.com/blog/scrolling-text/) *colibri blog*
