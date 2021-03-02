@@ -7,7 +7,7 @@
 > [<== Previous Topic](cssReset.md) **reset.css**
 
 ````javascript
-come back and write out the html template 
+come back and follow the html template 
 ```
 ````
 
