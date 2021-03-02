@@ -20,6 +20,8 @@
 ````
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=AL0YSI0US&theme=cobalt=row=1&column=7)
+</pre>
+</td></tr></table>
 
 ### 🔧 Technologies & Tools
 
