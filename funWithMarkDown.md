@@ -3,6 +3,7 @@
 / /  T E M P L A T E S   [for] Self Expression / /
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> This waving hand is one of the first things I saw that made me wonder what all  could be possible when writing in Markdown....
+
 Thank You🙏🏾[Martin Heinz](https://github.com/MartinHeinz)!
 
 `pop-out-email` :computer: I''m currently looking to collaborate on Open Source Projects > :email: [aloysiousx@gmail.com](mailto:aloysiousx@gmail.com) :email:
