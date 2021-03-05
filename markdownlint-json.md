@@ -6,6 +6,7 @@
 
 [Next Toic ==>](codeOfConduct.md) CODE_OF_CONDUCT
 
+````javascript
 {
   "line-length": false,
   "no-trailing-punctuation": false,
@@ -20,5 +21,5 @@
     ]
   }
 }
-```
+````
 [<== Home](README.md) 🏠
