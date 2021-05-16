@@ -3,8 +3,8 @@
 # redirect-rules-for-all - https://www.netlify.com/blog/2019/01/16/redirect-rules-for-all-how-to-configure-redirects-for-your-static-site/
 
 # https://dev.to/rajeshroyal/page-not-found-error-on-netlify-reactjs-react-router-solved-43oa {where it all started}
-# Long story short if you create file paths for a react app and deploy it on netlify you will need to create a _redirects folder like this 
-# one and place it in the root of your public folder and inclde : /* /index.html 200
+# Long story short if you create file paths for a react app and deploy it on netlify you will need to create a `_redirects` file like this 
+# one and place it in the root of your public folder and include : /* /index.html 200
 
 
 # Redirects from what the browser requests to what we serve
