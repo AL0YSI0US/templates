@@ -73,7 +73,7 @@ I'd like to have a template for this all in ONE PLACE!
 
 | 💾  File / Nomenclature | What the Fvck lives here? |
 | :-: | - |
-| 🚀[Fun with Markdown](funWithMarkdown.md) | Badges-HTMLish Formatting-etc |
+| 🚀[Fun with Markdown](https://github.com/AL0YSI0US/templates/blob/main/funWithMarkDown.md) | Badges-HTMLish Formatting-etc |
 | ❤️[Credits](credits.md) ❤️ | *eveything that looks neat, I learned from somone else.* This page will serve to document my gratitude 🙏🏾 |
 
 ````javascript✏️ My name is Aloysious and I am currently enrolled at Codefellows to study the arts and crafts of JavaScript and Python.
