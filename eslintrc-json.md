@@ -1,6 +1,6 @@
 # **.eslintrc.json**
 
-> / /  T E M P L A T E   [for]  Codefellows Assignments / /
+> / /  T E M P L A T E   / /
 
 
 
